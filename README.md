@@ -20,22 +20,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Artigo para descrever viagem para Cuba
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+utilizamos IA's para escrever um artigo para uma revista de viagens sobre um viagem para Cuba, detalhando o Roteiro e as atrações visitadas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para escrita do artigo
+IA Generativa Leonardo AI para criar a imagem ilustrativa do artigo
+Ferramenta Word para edição
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o Chat GPT para criar o texto para constar no artigo, descrevendo uma viagem de 10 dias para Cuba e indicando as atividades que foram realizadas a cada dia, como em geral é apresentado em revistas de viagem.
+Adicionei fotos ilustrativas da viagem, gerado pelo Leonardo AI, para enriquecer a narrativa e dar um tom mais real para o artigo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Apesar de não estar exatamente como o trabalho esperado de um humano, principalmente se avaliarmos as imagens geradas, o artigo apresentou leitura fluida e envolvente. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O trabalho mostra que com poucas ferramentos e e prompst simples é possivel a criação de conteúdos bastante realistas coma a utilização de IA, explorando somente uma parte bem pequena do potencial de uso das IA.
+
 ```
 
 ### Exemplos e Insigths
