@@ -36,6 +36,7 @@ Adicionei fotos ilustrativas da viagem, gerado pelo Leonardo AI, para enriquecer
 
 ## 🚀 Resultados
 Apesar de não estar exatamente como o trabalho esperado de um humano, principalmente se avaliarmos as imagens geradas, o artigo apresentou leitura fluida e envolvente. 
+[DIO- Viagem a Cuba.docx](https://github.com/user-attachments/files/18325296/DIO-.Viagem.a.Cuba.docx)
 
 ## 💭 Reflexão (Opcional)
 O trabalho mostra que com poucas ferramentos e e prompst simples é possivel a criação de conteúdos bastante realistas coma a utilização de IA, explorando somente uma parte bem pequena do potencial de uso das IA.
